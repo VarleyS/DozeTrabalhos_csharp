@@ -9,7 +9,7 @@ Console.WriteLine("Informe o intervalo de valores a exibir para série: \n1*^x +
 
 numero = Convert.ToInt32(Console.ReadLine());
 
-for (int i = 1; i < numero; i++)
+for (int i = 1; i <= numero; i++)
 {
     Console.Write(i + "*x" + i);
     if (i < numero)
