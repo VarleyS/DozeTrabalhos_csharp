@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Trabalho2/Trabalho2.csproj" />
+  <Project Path="Trabalho3/Trabalho3.csproj" Id="c10026a4-ba9b-40aa-afe3-c809b4a82e19" />
   <Project Path="VerificaCaractere/VerificaCaractere.csproj" />
 </Solution>

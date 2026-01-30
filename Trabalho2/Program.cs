@@ -26,5 +26,18 @@ namespace Trabalho2
             }
             Console.ReadKey();
         }
+
+        /*Escreva um programa que produza a seguinte resultado no Console:
+ 
+        *
+        **
+        ***
+        ****
+        ***
+        **
+        *
+        
+        
+        */
     }
 }
