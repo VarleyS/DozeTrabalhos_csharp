@@ -22,3 +22,6 @@ for (int i = 1; i <= numero; i++)
 
 Console.WriteLine("\nA soma da série é : " + soma);
 Console.ReadKey();
+
+//Escreva um programa que calcule e exiba a soma da seguinte série : 
+//1 * x + 2 * x ^ 2 + 3 * x ^ 3 + 4 * x ^ 4 + 5 * x ^ 5 + … +n * xn
